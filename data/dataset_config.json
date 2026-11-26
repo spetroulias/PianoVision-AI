@@ -1,0 +1,29 @@
+
+{
+    "dataset_name": "PianoVAM",
+    "version": "1.2",
+    "repo_id": "PianoVAM/PianoVAM_v1",
+    "revision": "bf69587",
+    "recordings": [
+        {"id": "2024-02-14_19-10-09", "split": "train"},
+        {"id": "2024-02-14_19-44-26", "split": "train"},
+        {"id": "2024-02-15_15-13-10", "split": "train"},
+        {"id": "2024-02-15_21-18-14", "split": "train"},
+        {"id": "2024-02-15_21-40-43", "split": "train"},
+        {"id": "2024-02-16_14-41-07", "split": "train"},
+        {"id": "2024-02-17_00-12-50", "split": "train"},
+        {"id": "2024-02-17_21-37-57", "split": "train"},
+        {"id": "2024-03-27_11-49-04", "split": "train"},
+        {"id": "2024-04-08_23-42-45", "split": "train"},
+        {"id": "2024-09-04_17-02-04", "split": "ext-train"},
+        {"id": "2024-09-04_17-07-59", "split": "ext-train"},
+        {"id": "2024-09-04_17-12-33", "split": "ext-train"},
+        {"id": "2024-09-04_19-09-38", "split": "ext-train"},
+        {"id": "2024-09-04_20-20-07", "split": "ext-train"},
+        {"id": "2024-09-04_20-59-20", "split": "ext-train"},
+        {"id": "2024-09-04_21-44-42", "split": "ext-train"},
+        {"id": "2024-09-04_22-00-35", "split": "ext-train"},
+        {"id": "2024-09-04_22-06-40", "split": "ext-train"},
+        {"id": "2024-09-04_22-13-22", "split": "ext-train"}
+    ]
+}

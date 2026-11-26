@@ -1,4 +1,6 @@
 ﻿opencv-python
 numpy
+matplotlib
 pretty_midi
 pytest
+huggingface-hub
